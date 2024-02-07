@@ -1,6 +1,6 @@
 #include <iostream> // Include the input/output stream library for basic I/O operations
 using namespace std;
-
+   
 // A linked list node
 class Node {
 public:
